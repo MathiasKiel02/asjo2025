@@ -6,3 +6,5 @@ Mine noter og øvelser til OOP.
 - *notes*/ - noter pr. kapitel
 - *exercises*/ - opgaver og løsninger
 - *src*/ små kodeeksempler
+
+laver rav i den
