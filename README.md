@@ -1,4 +1,4 @@
-# asjo2025
+# asjo2025 - OOP-noter
 
 Mine noter og øvelser til OOP.
 
