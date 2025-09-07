@@ -1,0 +1,1 @@
+# asjo2025/n/nMine noter og øvelser til OOP./n
